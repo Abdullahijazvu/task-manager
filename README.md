@@ -32,7 +32,6 @@ Create a `.env` file in the project root:
 
 ```env
 DATABASE_URL="postgresql://user:password@localhost:5432/taskdb"
-API_KEY="your-secret-key"  # Optional, defaults to "dev-secret-key"
 ```
 
 ### Installation
